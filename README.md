@@ -1,6 +1,6 @@
 "# example" 
 anshuman
 nk
-main 
-what the helll you guys are doi
+man 
+what th helll you guys are doi
 prak
